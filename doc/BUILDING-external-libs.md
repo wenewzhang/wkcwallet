@@ -103,6 +103,7 @@ cp cppzmq/*.hpp zeromq/include/
 cd /opt/android
 git clone https://github.com/monero-project/monero
 cd monero
+git checkout v0.11.1.0
 ```
 ```
 # <patch monero code as needed>

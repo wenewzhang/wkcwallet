@@ -1,4 +1,4 @@
-# Monerujo
+# Wukong Coin Android Wallet
 Another Android Monero Wallet
 
 ### QUICKSTART
@@ -8,7 +8,7 @@ Another Android Monero Wallet
 - See the [FAQ](doc/FAQ.md)
 
 ### Disclaimer
-You may lose all your Moneroj if you use this App. Be cautious when spending on the mainnet.
+Please write down the 25 seed
 
 ### Random Notes
 - Based off monero v0.11.1.0

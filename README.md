@@ -1,5 +1,5 @@
 # Wukong Coin Android Wallet
-Another Android Monero Wallet
+Another Android Wukong lighting Wallet
 
 ### QUICKSTART
 - Download the APK for the most current release [here](https://github.com/m2049r/xmrwallet/releases) and install it
@@ -11,16 +11,13 @@ Another Android Monero Wallet
 Please write down the 25 seed
 
 ### Random Notes
-- Based off monero v0.11.1.0
+- Based off Wukong v0.11.1.0
 - currently only android32 (runs on 64-bit as well)
 - works on the testnet & mainnet
 - sync is slow due to 32-bit architecture
 - use your own daemon - it's easy
 - screen stays on until first sync is complete
-- Monerujo means "Monero Wallet" according to https://www.reddit.com/r/Monero/comments/3exy7t/esperanto_corner/
 
-### TODO
-- see taiga.getmonero.org & issues on github
 
 ### Issues / Pitfalls
 - You should backup your wallet files in the "monerujo" folder periodically.
@@ -33,7 +30,7 @@ The official monero client shows the same behaviour.
 No need to build. Binaries are included:
 
 - openssl-1.0.2l
-- monero-v0.11.1.0
+- Wukong-v0.11.1.0
 - boost_1_64_0
 
 If you want to build them yourself (recommended) check out [the instructions](doc/BUILDING-external-libs.md)
@@ -41,5 +38,5 @@ If you want to build them yourself (recommended) check out [the instructions](do
 Then, fire up Android Studio and build the APK.
 
 ### Donations
-- Address: 4AdkPJoxn7JCvAby9szgnt93MSEwdnxdhaASxbTBm6x5dCwmsDep2UYN4FhStDn5i11nsJbpU7oj59ahg8gXb1Mg3viqCuk
-- Viewkey: b1aff2a12191723da0afbe75516f94dd8b068215f6e847d8da57aca5f1f98e0c
+- Address: 9yKxFHfe61QKLegJcPYzFDaGRXu24syM4QBMJoEN1wNggBStpTxM1iNE2HwZwHkesNUfr2tDp9zrx6LUVauzcnTUUnERUfB
+
